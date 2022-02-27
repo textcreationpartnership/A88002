@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter really written by a moderate Cavallier to an intelligent and moderate Independent of trust and credit in the now marching army. Occasioned by a discourse between them entertained at London, June 16th concerning the present grand affaire.</title>
+            <author>Moderate Cavallier.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88002</idno>
+            <idno type="STC">Wing L1587</idno>
+            <idno type="STC">Thomason E394_4</idno>
+            <idno type="STC">ESTC R201619</idno>
+            <idno type="EEBO-CITATION">99862119</idno>
+            <idno type="PROQUEST">99862119</idno>
+            <idno type="VID">160326</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88002)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160326)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E394[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter really written by a moderate Cavallier to an intelligent and moderate Independent of trust and credit in the now marching army. Occasioned by a discourse between them entertained at London, June 16th concerning the present grand affaire.</title>
+                  <author>Moderate Cavallier.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed ann. Dom. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 26".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160326:1" rendition="simple:additions"/>
+            <p>A LETTER Really written by a MODERATE CAVALLIER <hi>TO AN</hi> Intelligent and Moderate Indepen<g ref="char:EOLhyphen"/>dent of Truſt and Credit IN THE <hi>Now Marching Army.</hi>
+            </p>
+            <p>Occaſioned by a Diſcourſe between them entertained at <hi>London, June</hi> 16<hi>th</hi> concerning the preſent Grand Affaire.</p>
+            <figure>
+               <figDesc>Scottish thistle</figDesc>
+            </figure>
+            <figure>
+               <figDesc>French fleur-de-lis</figDesc>
+            </figure>
+            <figure>
+               <figDesc>Tudor rose</figDesc>
+            </figure>
+            <figure>
+               <figDesc>French fleur-de-lis</figDesc>
+            </figure>
+            <p>
+               <date>
+                  <add>June 26</add>
+               </date>LONDON, Printed <hi>Ann. Dom.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:160326:2"/>
+            <pb n="3" facs="tcp:160326:2"/>
+            <head>
+               <hi>A LETTER</hi> Really written by a Moderate Caval<g ref="char:EOLhyphen"/>lier, to an Intelligent and Moderate Independent of Truſt and Credit in the Now Marching Army.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>VVHen I looke back upon ray promiſe, I am at a doubt whether I ſhould be ſtill your debtor, or make payment with Coyne leſſe current by clipping, or allay; of which there is an unavoydable neceſſitie, the ſhortneſſe of time not ſorting with a liberty to write much, and the greatneſſe of the ſubject requiring to write nothing but what may abide the Teſt: But
+<pb n="4" facs="tcp:160326:3"/>having a confidence that your goodneſſe will bury my errours by a kind ſuppreſſion, I can the better adventure upon your judgement, which will com<g ref="char:EOLhyphen"/>municate nothing that may be of no farther uſe then the reproofe of the Writer.</p>
+            <p>It is a Chryſis of time wherein each man labours of expectation, and before the maine Birth (which we hope will be ſpecious) be produced, there is a production of Monſters, according as the various ſize of mens underſtandings, the condition, and inte<g ref="char:EOLhyphen"/>reſt of many, and the feares and guilt of not a few doe frame ſuggeſtions. It is and muſt be never<g ref="char:EOLhyphen"/>theleſſe the glory of that Army, (which now makes buſineſſe for every thought) to be pious in, and con<g ref="char:EOLhyphen"/>ſtant to prepenſed Principles, that accident (which will be encountred) make no viſible Mutation in the maine Deſigne, of the contexure of which your yeſterday Diſcourſe ſeconding his Excellencies De<g ref="char:EOLhyphen"/>claration, begot in me a very wealthy Opinion; And to the progreſſe, and value of which, I hope the ſcandals and pretences ſcattered will be neither a Re<g ref="char:EOLhyphen"/>mora, nor an Allay.</p>
+            <p>The cure of every Malady is then moſt eaſie when the Diſeaſe it ſelfe is throughlieſt; knowne. This Common-wealth was ſix yeares fithence pretended to be ſicke, and was committed into the hands of Phyſicians, who have practiſed upon the body by Purgings, and Phlebotomie, till if before it aboun<g ref="char:EOLhyphen"/>ded with ill humours, it is now deficient in good bloud and ſpirits, and rather put into a condition to be ſtill wrought upon untill deſtroyed, then in
+<pb n="5" facs="tcp:160326:3"/>any way of health, or renewed ſtrength after ſo long a languiſhing. Certainly it is now high time to change its Doctors, and finde out ſuch who will apply ſome cordials and reſtauratives to a worne-out body, and recover it by degrees; towards which they may make advantage of the paſt Errours com<g ref="char:EOLhyphen"/>mitted by ſuch who have pretended to operate for its health, <hi>viz.</hi> an Eradication of the Kings Prero<g ref="char:EOLhyphen"/>rogative, while they pretended onely a circumſcrip<g ref="char:EOLhyphen"/>tion, or modeſt limitation; A Monopoliſing of power by pretence of Law, againſt Law, and con<g ref="char:EOLhyphen"/>founding all freedome in Notionall and Phantaſtick, at leaſt unaſcertained, Priviledges; An unbounded Liberty given at firſt to the <hi>Plebs,</hi> while it conduced to ends, and at laſt a ſhortning of Liberty, and Pro<g ref="char:EOLhyphen"/>perty into a Vaſſalage and ſlavery; And in all a to<g ref="char:EOLhyphen"/>tall defection wrought in the Government and Countenance both of Church and State, and a ſhuf<g ref="char:EOLhyphen"/>ling of order, and Diſcipline, into rudeneſſe and In<g ref="char:EOLhyphen"/>diſtinction.</p>
+            <p>The Publique-Faith (the Kingdomes reputation) hackneyed upon all occaſions, and forfeited at laſt, and the Souldiers (after having ſerved a purpoſe ſo farre as that it was able to walke alone without ſo coſtly ſupporters) neglected, and affronted in pay, and credit; In ſo farre, that if the Land were, or in<g ref="char:EOLhyphen"/>vaded by a Forraine, or embroyled with an inte<g ref="char:EOLhyphen"/>ſtine Enemy, thoſe Mannagers could neither finde Coine nor Hands to officiate to its preſervation, or defence; And albeit we have not Lawes to the Let<g ref="char:EOLhyphen"/>ter of which theſe miſdemeanors are applyable by the names of Treaſons, yet taking their own liberty
+<pb n="6" facs="tcp:160326:4"/>of ſuppoſing conſtructive Treaſons, their reduction of this diſtempered Kingdome in theſe years paſt to its preſent condition will carry a ſence of a compli<g ref="char:EOLhyphen"/>cate crime, not leſſe then for what they have ſought, and taken the blouds of ſome, and thoſe no obſcure perſons.</p>
+            <p>No man will therefore reprove your Armies Demand of thoſe Members, who are conceived guil<g ref="char:EOLhyphen"/>ty of theſe heights of Impiety, but each moderate man will hope that they ſhall not be denied (though it were juſt to them if they were) the Liberties of a legall triall, though themſelves and partie give out, that a triall by the Law Martiall is onely intended for them; yet, the Common Lawes will bee found ſharpe enough to correct them, and doubtleſſe God will bee better pleaſed with the ſacrificing of ſuch men by the hand of Iuſtice, then with their familiar Solemnities, and Celebrations of Faſts, by which they have upheld a reverence in opinion to their godleſſe actions.</p>
+            <p>You have a great Worke to doe, to reſtore Reli<g ref="char:EOLhyphen"/>gion and Law, upon which depends the Kings re-enthronement, and re-inveſture with his juſt rights, the Parliaments aſcertainment of their juſt power and equall Priviledges, and the peoples re<g ref="char:EOLhyphen"/>ſtorement to their known Liberties and Properties, as to their limitted and fitting obedience and ſubje<g ref="char:EOLhyphen"/>ction, which all are ſo concatenate, as that an omiſſi<g ref="char:EOLhyphen"/>on of either makes the whole worke ineffectuall, and leaves the Common-wealth in a condition prepared for new and bad impreſſions, and ſubjected to chan<g ref="char:EOLhyphen"/>ges as occaſion which will not be long unoffered ſhal
+<pb n="7" facs="tcp:160326:4"/>be adminiſtred to its innovation. What influence, ho<g ref="char:EOLhyphen"/>nor or comfort can be derivable from a King meerly nominall? what converſe can there be with a people impoveriſht and embaſed? and what Peace with a people uncircumſcribed and irregulate? what ex<g ref="char:EOLhyphen"/>pectation of Iuſtice from an aggregate number of men entruſted with a Kingdomes concernment, who will pretend to have no boundaries for their Privi<g ref="char:EOLhyphen"/>ledges but an involution of all diſpoſitory power of the peoples lives and fortunes, which the free condi<g ref="char:EOLhyphen"/>tion I meane the antient freedome of this Nation (not yet extinct in the Engliſh breaſts) will no more relliſh, then Kings will Rebellion, or then Subjects Tyranny?</p>
+            <p>If you come therefore (as I will untill otherwiſe convinced believe) prepared to ſtate the caſe of the Kingdom, and to ſtand by as Protectors to Juſtice, while it diſpenceth equally to King, Parl. and People, your ſwords will be the honour'd propagators, &amp; the whole Kingdom the happy partakers of a laſting Peaces; but if a defection be in advancing any of thoſe great concernes we ſhall have but a ſeeming quiet or Ceſſation, meerly to take breath for a new Em<g ref="char:EOLhyphen"/>broilment; and have found away by a ſlight skin<g ref="char:EOLhyphen"/>ning of a ſore to fit it for exulceration, and by preter<g ref="char:EOLhyphen"/>mitting a part of the remedy preſcribed, to render the diſeaſe incurable.</p>
+            <closer>
+               <dateline>
+                  <date>Iunii, 17. 1647.</date>
+               </dateline>
+               <salute>Sir</salute> 
+               <signed>I am Your affectionate friend and humble Servant.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
